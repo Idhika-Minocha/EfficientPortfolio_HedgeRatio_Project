@@ -17,4 +17,5 @@ Both projects focus on financial modeling to measure portfolio performance and m
 - Key Outcome: Successful verification of the hedge ratio, providing an effective cross-hedging strategy.
 
 Data Source: Historical price data collected from NSE and MCX websites.
-Excel Analysis: Kindly refer to the google sheet link in the pdf.
+
+Excel Analysis: https://docs.google.com/spreadsheets/d/1bJPhYGim0LZ2CEW-hmyz4Xn2eDA7iqn8GE_6MwO-gNc/edit?usp=sharing
